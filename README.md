@@ -29,7 +29,7 @@ These metrics are used to score and segment customers into different groups, all
 
 * Can't Lose Customers:
 
-  -This segment includes customers who have a high monetary value but have not made a purchase in a long time. They are at a high risk of churning, and losing them would significantly impact your revenue.   
+  - This segment includes customers who have a high monetary value but have not made a purchase in a long time. They are at a high risk of churning, and losing them would significantly impact your revenue.   
    Immediate action is needed to re-engage them, such as offering exclusive deals, loyalty rewards, or personalized outreach to remind them of the value your brand offers.
 
 ## Tools Used
