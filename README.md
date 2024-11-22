@@ -34,12 +34,13 @@ These metrics are used to score and segment customers into different groups, all
 
 ## Tools Used
 * Python
-Python was used for data processing and RFM segmentation. The following libraries were utilized:
+  - Python was used for data processing and RFM segmentation. The following libraries were utilized:
 
-  - pandas for data manipulation
-  - datetime for handling date
-  - numpy for numerical operations
+    - pandas for data manipulation
+    - datetime for handling date
+    - numpy for numerical operations
 
 
 * Power BI
-Power BI was used to create interactive dashboards and visualizations to present the RFM segmentation results. The visualizations help in understanding customer segments and making data-driven decisions.
+  - Power
+    - BI was used to create interactive dashboards and visualizations to present the RFM segmentation results. The visualizations help in understanding customer segments and making data-driven decisions.
