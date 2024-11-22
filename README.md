@@ -1,2 +1,1 @@
-# Power-Bi-Python
-Project For Segment The Customers Into Similar Groups
+# RFM Segmentation Using Python And Power Bi
